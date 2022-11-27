@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Rjub7AIEIbXT0tzbr3/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/monika-gadage-55a590137/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
