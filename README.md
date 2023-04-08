@@ -16,16 +16,14 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/giKklFontfveZrNXjz/giphy.gif" width="30"> currently in USA.
-- :telescope: I’m pursuing my Master's in Computer Science and actively developing full stack projects.
 
-- :seedling: In my free time, I solve problems on LeetCode, Code Studio and enjoy reaching tech articles.
+As a Full Stack Developer with a Master's degree in Computer Science, I feel confident in my ability to take on any project and deliver outstanding results.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Monika-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/monika-gadage-55a590137/).
+Throughout my academic career, I worked hard to develop my skills and actively worked on full stack projects to showcase my abilities. In my free time, I love solving challenging problems on LeetCode and Code Studio, as well as staying up-to-date with the latest industry trends through reading tech articles.
 
-- 😄 Pronouns: She/Her.
+One of my strengths is my ability to organize fun workplace activities that create a positive and inclusive work environment. I take pride in fostering a healthy work-life balance and believe that happy employees lead to better outcomes.
 
-- ⚡ Fun fact: I have experience organizing fun activities at the workplace. 
+Overall, I am a driven and innovative Full Stack Developer who is always seeking new opportunities to grow and learn. I am confident that my education, experience, and passion for problem-solving will make me an invaluable asset to any team.
 
 ---
 
