@@ -17,7 +17,7 @@
 
 ### :woman_technologist: About Me :
 
-As a Full Stack Developer with a Master's degree in Computer Science, I feel confident in my ability to take on any project and deliver outstanding results.
+As a Full Stack Developer with Computer Science degree, I feel confident in my ability to take on any project and deliver outstanding results.
 
 Throughout my academic career, I worked hard to develop my skills and actively worked on full stack projects to showcase my abilities. In my free time, I love solving challenging problems on LeetCode and Code Studio, as well as staying up-to-date with the latest industry trends through reading tech articles.
 
