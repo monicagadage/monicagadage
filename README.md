@@ -17,13 +17,12 @@
 
 ### :woman_technologist: About Me :
 
-As a Full Stack Developer with Computer Science degree, I feel confident in my ability to take on any project and deliver outstanding results.
+As a Computer Science graduate and seasoned Full Stack Developer, I excel in delivering exceptional results across a spectrum of projects. My expertise lies in Java-based full stack development, complemented by a strong foundation in solving intricate problems on platforms like LeetCode and Code Studio. Staying abreast of the latest industry trends through continuous learning is my forte.
 
-Throughout my academic career, I worked hard to develop my skills and actively worked on full stack projects to showcase my abilities. In my free time, I love solving challenging problems on LeetCode and Code Studio, as well as staying up-to-date with the latest industry trends through reading tech articles.
+Beyond technical prowess, I am recognized for organizing engaging workplace activities that foster a positive and inclusive environment. Prioritizing work-life balance, I believe in the profound impact of content and motivated team members on overall project success.
 
-One of my strengths is my ability to organize fun workplace activities that create a positive and inclusive work environment. I take pride in fostering a healthy work-life balance and believe that happy employees lead to better outcomes.
+In essence, I am a motivated and innovative Full Stack Developer, eagerly exploring new opportunities for professional growth. With a solid educational background, hands-on experience, and a passion for problem-solving, I bring invaluable assets to any collaborative team.
 
-Overall, I am a driven and innovative Full Stack Developer who is always seeking new opportunities to grow and learn. I am confident that my education, experience, and passion for problem-solving will make me an invaluable asset to any team.
 
 ---
 
